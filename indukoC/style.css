@@ -508,6 +508,7 @@ button.navbar-toggler[aria-expanded="true"] .fa-bars {
 
 .layout_padding {
     padding: 90px 0;
+    text-align: center;
 }
 
 .width_50 {
