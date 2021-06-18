@@ -13,6 +13,19 @@
     2.basic
 -------------------------------------------------------------------*/
 
+.button_atras{
+     background-color: #FAC9D1; /* Green */
+    border: none;
+    color: white;
+    padding: 40px 80px;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+    margin: 20px 95px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
 .button_ficha_Tecnica {
     background-color: #FAC9D1; /* Green */
     border: none;
@@ -84,7 +97,7 @@ h6:hover a {
 }
 
 li p {
-    margin: auto;
+    margin: 10px;
 }
 
 h1 {
