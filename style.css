@@ -13,6 +13,10 @@
     2.basic
 -------------------------------------------------------------------*/
 
+.PCentrado{
+    text-align: center;
+}
+
 .button_atras{
      background-color: #FAC9D1; /* Green */
     border: none;
