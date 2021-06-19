@@ -18,20 +18,24 @@
 }
 
 .button_atras{
-     background-color: #FAC9D1; /* Green */
+    background-color: #6e6e6e;
     border: none;
     color: white;
-    padding: 40px 80px;
+    padding: 20px 40px;
     text-align: center;
-    display: inline-block;
-    font-size: 30px;
-    margin: 20px 95px;
+    font-size: 20px;
     cursor: pointer;
     border-radius: 12px;
+    display:block;
+    margin:auto;
+}
+
+.button_atras a {
+    color:white;
 }
 
 .button_ficha_Tecnica {
-    background-color: #FAC9D1; /* Green */
+    background-color: #FAC9D1;
     border: none;
     color: white;
     padding: 30px 80px;
