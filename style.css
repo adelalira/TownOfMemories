@@ -14,6 +14,12 @@
 -------------------------------------------------------------------*/
 
 
+.textoEstados{
+    font-size: 26px;
+    text-align: center;
+    color:#535353;
+}
+
 .imagenReferencias{
     width: 50%;
     display:block;
