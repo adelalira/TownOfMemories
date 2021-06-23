@@ -20,6 +20,13 @@
     margin:auto;
 }
 
+.imagenControles{
+    width: 70%;
+    display:block;
+    margin:auto;
+    padding:20px;
+}
+
 .PCentrado{
     text-align: center;
 }
