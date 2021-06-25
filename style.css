@@ -1281,8 +1281,8 @@ header .main_menu .nav-item.active a.nav-link {
 }
 
 .logo img {
-    max-width: 324px;
-    max-width: 100%;
+    width: 150px;
+    height: 100px;
     margin: auto;
     text-align: center;
     display: block;
