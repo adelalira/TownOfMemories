@@ -58,7 +58,7 @@
 
 
 .button_ficha_Tecnica {
-    background-color: #FAC9D1; /* Green */
+    background-color: #bfc6eb; /* Green */
     border: none;
     color: white;
     padding: 30px 80px;
@@ -671,7 +671,7 @@ form#commant_form div.field textarea.custom_field {
 }
 
 .main_full.inner_page {
-    background: #FAC9D1;
+    background: #a2a8c7;
     text-align: center;
     min-height: 180px;
 }
