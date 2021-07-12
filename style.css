@@ -81,6 +81,12 @@
     text-align: justify;
 }
 
+.introduccionIndex{
+    padding: 15px 20px;
+    margin: 70px;
+    text-align: center;
+}
+
 body {
     font-size: 14px;
     line-height: normal;
